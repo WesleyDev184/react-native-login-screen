@@ -13,5 +13,9 @@ simple flow simulating a login in rect native, context api and react navigation.
 ### How To Run
 
 ```
-npm start or yarn start
+npm start
+```
+###OR
+```
+yarn start
 ```
