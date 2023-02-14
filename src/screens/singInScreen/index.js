@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Container, Title } from '../homeScreen/styles';
+import { Container } from '../homeScreen/styles';
 import InputComponent from '../../components/inputCustom';
 import ButtonComponent from '../../components/buttonCustom';
 import { Alert } from 'react-native';
@@ -14,7 +14,7 @@ const LoginScreen = () => {
     if (username != '' && password != '') {
       changeAuth();
     } else {
-      Alert.alert('Aviso', 'reencha todos os campos');
+      Alert.alert('Aviso', 'preencha todos os campos');
     }
   };
 
