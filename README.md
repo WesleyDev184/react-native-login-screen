@@ -1,13 +1,14 @@
 # React native login screen
 
-Simple imc calculator to train programming logic.
+simple flow simulating a login in rect native, context api and react navigation.
 
 ### Technologies Used:
 
-- Html
-- Css
+- React native 
+- expo
 - JavaScript
+- Styled components
+- Context Api
 
 ### How To Run
 
-Clone the repository and run the html file.
