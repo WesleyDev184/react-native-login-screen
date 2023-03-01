@@ -16,7 +16,6 @@ simple flow simulating a login in rect native, context api and react navigation.
 npm start
 ```
 ### OR
-
 ```
 yarn start
 ```
